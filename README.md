@@ -18,8 +18,8 @@ Projenin amacı, Windows Forms üzerinde öğrendiğim temel kontrolleri ve kull
 
 ## 🖥️ Ekran Görüntüleri
 <img width="382" height="515" alt="image" src="https://github.com/user-attachments/assets/b29c9290-247c-4029-804f-d2fa77ecbea3" />
-<img width="384" height="515" alt="image" src="https://github.com/user-attachments/assets/47011e1d-74e1-4fc6-8fc4-778c2937145a" />
-<img width="592" height="534" alt="image" src="https://github.com/user-attachments/assets/ac8d79b0-8b9f-4f5d-8ece-c8c4e7604806" />
+<img width="523" height="524" alt="image" src="https://github.com/user-attachments/assets/06dbd634-b459-4094-858c-e30dc5505d75" />
+
 
 
 ## 📚 Öğrendiklerim
